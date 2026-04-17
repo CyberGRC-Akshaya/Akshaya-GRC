@@ -83,7 +83,6 @@
 ## 📬 Let's Connect
 
 - 🌐 **Portfolio:** [Akshaya-grc.netlify.app](https://Akshaya-grc.netlify.app)
-- 💼 **LinkedIn:** [linkedin.com/in/Akshaya-grc](https://linkedin.com/in/Akshaya-grc)
 - 📧 **Consulting:** akshayshrm39@gmail.com
 
 **Available for:** T1 bank GRC engagements · Big 4 GRC consulting · DPO services · ISMS implementation · ISO 27001 gap assessments
