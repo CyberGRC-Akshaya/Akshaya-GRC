@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshaya — GRC Architect & Cybersecurity Governance Expert
 
-**Sr. Manager, Risk & Compliance** · **Appointed Data Protection Officer (DPO)** · **First GRC Consultant Selected for US Tier 1 Bank IT GRC**
+**Sr. Manager, Risk & Compliance** · **Appointed Data Protection Officer (DPO)**
 
 ---
 
@@ -17,7 +17,6 @@
 
 > *"I don't walk into existing programs. I build the ones others walk into."*
 
-- 🏦 **First & only GRC consultant** from NLB Group selected for **US Tier 1 Bank IT GRC** engagement
 - 🔐 **Appointed enterprise DPO** across 5 regulated verticals — BFSI, IT consulting, software, data science, staffing
 - 📋 **9+ ISMS programmes built from zero** — none inherited; all passed audit on first attempt
 - 🔧 Built organisation's **first cybersecurity team** from inception
